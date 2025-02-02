@@ -15,7 +15,7 @@ const props = withDefaults(
 const typeMap = {
   tip: {
     icon: "ph:notepad-bold",
-    color: "#3a7",
+    color: "#fa7",
     title: "提醒",
   },
   info: {
